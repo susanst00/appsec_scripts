@@ -13,7 +13,7 @@
 - [Software Components for Process Group Instance](#softwareComponents4pgipy)
   - Retrieves all software components (libraries) for a specific process group instance
 - [Libraries grouped by host and process](#libraries_by_hostpy)
-  - Exports all libraries (optionally with vulnberabilities) grouped by host and process to a CSV
+  - Exports all libraries (optionally with vulnerabilities) grouped by host and process to a CSV
 - [Vulnerabilities grouped by host and process](#vulnerabilities_by_hostpy)
   - Exports all  vulnerabilities grouped by host and process to a CSV
 - [Processes reporting libraries ](#processes_reporting_librariespy)
